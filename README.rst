@@ -2,6 +2,9 @@
 Sushy
 =====
 
+**I've moved this project into OpenStack. The latest code can be
+found at https://github.com/openstack/sushy**
+
 Sushy is a Python library to communicate with `Redfish`_ based systems.
 
 The goal of the library is to be extremely simple, small, have as few
